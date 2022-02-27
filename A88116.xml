@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lier laid open in a letter, first written to a friend in the country, at his desire, for his private satisfaction: and now printed for the publick. Touching a late pamphlet, intituled, The manifold practises and attempts of the Hamiltons: and particularly, of the present Duke of Hamilton, (now generall of the Scottish Army) to get the crown of Scotland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88116</idno>
+            <idno type="STC">Wing L1948</idno>
+            <idno type="STC">Thomason E451_44</idno>
+            <idno type="STC">ESTC R202715</idno>
+            <idno type="EEBO-CITATION">99862910</idno>
+            <idno type="PROQUEST">99862910</idno>
+            <idno type="VID">115090</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88116)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115090)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E451[44])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lier laid open in a letter, first written to a friend in the country, at his desire, for his private satisfaction: and now printed for the publick. Touching a late pamphlet, intituled, The manifold practises and attempts of the Hamiltons: and particularly, of the present Duke of Hamilton, (now generall of the Scottish Army) to get the crown of Scotland.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the yeer, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to "The manifold practises and attempts of the Hamiltons, and particularly the present Duke of Hamilton now generall of the Scottish Army to get the crown of Scotland. .. written from a malignant here in London [i.e. Marchamont Nedham?]".</note>
+                  <note>Annotation on Thomason copy: "July. 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hamilton, William Hamilton, --  Duke of, 1616-1651 --  Early works to 1800.</term>
+               <term>Nedham, Marchamont, 1620-1678. --  Manifold practises and attempts of the Hamiltons, and particularly the present Duke of Hamilton now generall of the Scottish Army to get the crown of Scotland.</term>
+               <term>Hamilton family --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115090:1" rendition="simple:additions"/>
+            <p>The LIER laid open In a LETTER, <hi>First</hi> Written to a Friend in the Country, at his deſire, for his private ſatisfaction: <hi>And now</hi> Printed for the Publick.</p>
+            <p>Touching a late PAMPHLET, INTIT<g ref="char:V">Ʋ</g>LED,<lb/>
+The manifold Practiſes and Attempts of the <hi>Hamiltons:</hi> AND Particularly, of the preſent DUKE OF HAMILTON, <hi>(Now Generall of the Scottiſh ARMY)</hi> to get the Crown of SCOTLAND.</p>
+            <p>
+               <hi>London,</hi> Printed in the Yeer, 1648.</p>
+            <pb facs="tcp:115090:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:115090:2"/>
+            <head>An Anſwer to a Letter forged by ſome Malicious Perſon againſt the Illustrious Lord, <hi>JAMES</hi> Duke of <hi>HAMILTON,</hi> now Gene<g ref="char:EOLhyphen"/>ral of the SCOTTISH ARMY; And the Right Honourable <hi>WILLIAM,</hi> Earl of <hi>LANERICK</hi> His Brother.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN ſatisfaction to your deſire touching a malicious Pam<g ref="char:EOLhyphen"/>phlet lately forged, and publiſhed againſt Duke <hi>Hamil<g ref="char:EOLhyphen"/>ton</hi> and his Brother the Earl of <hi>Lanerick;</hi> I ſhall ſhew you briefly and ingeniouſly my opinion thereof; <hi>Sine amore et odio,</hi> which blinds and tranſports moſt judgements.</p>
+            <p>The firſt part thereof concerning ſome of Duke <hi>Hamil<g ref="char:EOLhyphen"/>tons</hi> Predeceſſors is borrowed from <hi>Buchanan,</hi> who is known by all judicious impartial men of the Scottiſh Na<g ref="char:EOLhyphen"/>tion, to have been ſuborned by the Earl of <hi>Murray</hi> then Regent, to defame Queen <hi>Mary</hi> and her Poſterity, make them odious to the people, and incapable of Government, according to his pernitious principles now revived in this Iſland, (whether firſt invented by Jeſuits, or ſome Secta<g ref="char:EOLhyphen"/>ries about the yeer of God 1536. is not material to our purpoſe, ſince both Joyn iſſue in it; and like <hi>Herod</hi> and <hi>Pilate,</hi> agree againſt the Lords Anointed;) to make way for the ſetling of the Crown upon his own head, and transferring of it to his Poſterity; as by <hi>Buchanan</hi> his Dialogue, <hi>De jure Regni apud Scotos,</hi> his <hi>Detectio,</hi> and Hiſtory may appear: As alſo by the Charge, which the Earls, of
+<pb n="4" facs="tcp:115090:3"/>
+               <hi>Murray, Morton,</hi> and others gave in to Queen <hi>Elizabeth</hi> againſt Queen <hi>Mary;</hi> and as King <hi>James</hi> declares plainly in his <hi>Baſilicon doron.</hi>
+            </p>
+            <p>And perceiving that this could hardly be effectuated ſo long as the race of <hi>Hamiltons,</hi> the next undoubted lawful Heirs remained, who ſtood firme to the Queen: He cauſ<g ref="char:EOLhyphen"/>ed <hi>Buchanan</hi> to defame them alſo in his Libels for that ſame end, forfeited and baniſhed them for their Loyalty; and as <hi>Buchanan,</hi> to inſinuate his calumnies the better, took his riſe from King <hi>James</hi> the fifths minority; ſo doth this Pamphleter now, and yet makes only uſe of him, when he ſerves his turn, building upon his own raw invention, when <hi>Buchanan</hi> makes not for it;</p>
+            <p>As when he inſtances Sir <hi>James Hamilton</hi> executed for Treaſon, <hi>Buchanan</hi> doth not charge the Earl of <hi>Arran</hi> to have had any hand in it, neither was he ever accuſed ther<g ref="char:EOLhyphen"/>of; the ſaid Sir <hi>James</hi> of <hi>Evendale</hi> being known to be a profuſe wicked man.</p>
+            <p>Again, <hi>Buchanan</hi> in <hi>terminis</hi> charges the Clergy, as the chief hinderers of King <hi>James</hi> the Fift his meeting at York with his Uncle <hi>Henry</hi> the Eighth of England, for fear he ſhould have induced him to ſhake off the Popes Autho<g ref="char:EOLhyphen"/>rity as himſelf had done a little before; and that the Mar<g ref="char:EOLhyphen"/>riage with the Lady <hi>Mary</hi> might have been a means to procure it: as they likewiſe hindered the Marriage of <hi>Mary</hi> Queen of Scots with <hi>Edward</hi> the Sixth, agreed up<g ref="char:EOLhyphen"/>on under the Great Seals of both Kingdoms: The Queen-Mother and Cardinal <hi>Beaton</hi> who ruled all then, ſending her to France; which this Pamphleter charges moſt in<g ref="char:EOLhyphen"/>juriouſly upon the Duke of <hi>Chaſtle-rault,</hi> whereas it is conſpicuous that he obtained that title, and 1200 Franks penſion (which this Duke keeps ſtill) from the French
+<pb n="5" facs="tcp:115090:3"/>
+King, for reſigning the Regency to the Queen dowager, being that he was made Regent, not by a private faction (as the Pamphleter ſaies) but by the Three Eſtates of the Kingdom, in oppoſition to a forged Will of the late Kings, which Cardinal <hi>Beaton</hi> obtruded, the Duke being inclined then to the Proteſtant Religion, and moſt popular, as both <hi>Buchanan</hi> and <hi>John Knox</hi> in their Hiſtories do teſtifie, and impute his after change in Religion to the Queens ſide, to his Brother the Abbot of <hi>Paſeley,</hi> after Archbiſhop of St <hi>Andrews;</hi> and M. <hi>David Panter</hi> his Secretary, after Biſhop of <hi>Roſſe,</hi> who returning from France, got in great favour with him, over ruled him, being of no great intellectualls, and cauſed remove of all his ancient ſervants, and placed their own creatures about him: And it is very plain, that if he had been a man of an aſpiring ſpirit to the Crown, he would never have given up his Regency; but all his actions ſhowes him to have been a humble man, and of no ambition, and more inclined to a private, than publick way of life.</p>
+            <p>And for his eldeſt Son the Earl of <hi>Arran,</hi> he was known to be diſtracted, and died ſo without marriage, and Lord <hi>John</hi> the ſecond Son, this Dukes Grand-father, never was a ſuitor to the Queen that I can read in any but this Pam<g ref="char:EOLhyphen"/>phleter, though I cannot ſee, that it had been a Crime in either to have been ſuitors, more than it was for the Lord <hi>Darnely</hi> to marry her.</p>
+            <p>As for the Kings murther afterwards, when the Earl of <hi>Morton</hi> ſuffered for concealing of it, a cleer Diſcovery was made, who were the chief authors of it, and actors in it; the Duke of <hi>Chaſtle rault</hi> and his Sons having ſmall hand in the Government at that time, and ſtanding faſt to the Queen, when others roſe in Arms againſt her in pro<g ref="char:EOLhyphen"/>ſecution of that Deſigne.</p>
+            <p>
+               <pb n="6" facs="tcp:115090:4"/>
+As for the Earl of <hi>Murrayes</hi> death, <hi>Bothwel-haugh</hi> that perpetrated it, flying after to France, profeſſed that he did it out of a private revenge, becauſe the Earl of <hi>Mur<g ref="char:EOLhyphen"/>ray</hi> had taken his Eſtate unjuſtly from him, and could not be induced by large rewards to kill a great man there, nei<g ref="char:EOLhyphen"/>ther could there ever be any legal proofes brought a<g ref="char:EOLhyphen"/>gainſt the Duke, his Sons, or Archbiſhop <hi>Hamilton,</hi> (who was moſt illegally and barbarouſly murthered, concer<g ref="char:EOLhyphen"/>ning the Kings murther and Regents death:) though much attempted by the Faction of the times out of ma<g ref="char:EOLhyphen"/>lice to them for their Loyalty to the Queen, and con<g ref="char:EOLhyphen"/>ſequently to the Prince her Son, whom the Faction ſet up in his Cradle, to deſtroy his Mother, under colour of his Authority inveſted in them, which, how much he abhorred, he declared fully when he came to years of underſtanding<hi>:</hi> and many of the cheif Actors, did not eſcape Gods judgement; And here I muſt obſerve, how this Scribler would ſeem to be a Royaliſt, and yet runs himſelf upon Sectarian Antimonarchical Rocks, that make inevitable Shipwrack of all Monarchical power.</p>
+            <p>Where he ſayes, That the Queen was put and kept in Lochleven a priſoner, by command of Parliament, and that the <hi>Hamiltons</hi> took a courſe to releive her, and ſup<g ref="char:EOLhyphen"/>preſſe the King and his party; he will not deny, but the Queen was their lawful Soveraigne by the Law of God, and by neer 107 Deſcents; by what law then, of God, or that Kingdom, could a party of her Subjects impriſon, and diſthrone her? Was it Treaſon in my Lord <hi>Hamilton,</hi> Duke of <hi>Chastle-rault</hi> to releive her, and imploy all his power to defend her? Let them cite the Law; I demand of him, Would it be ſo now, to reſcue the King out of the Iſle of Wight? But he anſwers, That it was to ſup<g ref="char:EOLhyphen"/>preſſe
+<pb n="7" facs="tcp:115090:4"/>
+the King her ſon, and the Nobility, that did adhere to him: This is a poore ſubterfuge, the Prince was in his Craddle, not fully 18 moneths of age, and what hand could he have in the ruine of his Mother, to make a Preſi<g ref="char:EOLhyphen"/>dent for his own? the matter is clear to any reaſonable man.</p>
+            <p>The <hi>Hamiltons</hi> would have reſtored the Queen accord<g ref="char:EOLhyphen"/>ing to the duty of their allegiance without wronging the young Prince in his juſt ſucceſſion; nay, for the better pre<g ref="char:EOLhyphen"/>ſerving of his Royall Perſon to come to it in his due time, according to the Law of God, and of that Nation. But ſuch was the perfidious guilt of the Earles of <hi>Murray, Ar<g ref="char:EOLhyphen"/>gile, Morton, Ruthen</hi> and others, that it could not be done without their deſtruction; therefore they laboured to keep the power in their own hands, in the name of the Infant King, and to deſtroy the Queen and <hi>Hamiltons,</hi> to put the crown upon the Earl of <hi>Murraye's</hi> head, the young King being in his cuſtody to make away when he found time.</p>
+            <p>And beſides, King <hi>James</hi> His Authority, (which is of great force with the judiciouſly learned,) all the Earl of <hi>Murrayes</hi> proceedings, do clearly demonſtrate his intend<g ref="char:EOLhyphen"/>ed uſurpation of the Crown; for from the firſt beginning of that Rebellion he was head of it, and all along acted covertly, making the Earl of <hi>Argile</hi> to own it openly, and made ſtill a ſhow to be for the Queen his dear ſiſter, abuſing of her goodnes, and getting into places of greateſt truſt, the better to betray all her Counſells to <hi>Argile,</hi> and the Lords of the congregations abſenting himſelf ever from
+<pb n="8" facs="tcp:115090:5"/>
+the execution of all the plots contrived againſt her, which himſelf was chief author and abettor of, untill at laſt ſhe was impriſoned, and disthroned; and then when he thought all ſure, he took off the mask, raiſed an Army openly, defeat<g ref="char:EOLhyphen"/>ed her in <hi>Langſide</hi> field, and enforced her to fly into <hi>Eng<g ref="char:EOLhyphen"/>land</hi> for ſafety, in regard of his moſt violent proſecution: to the diſgrace both of her, the young King, and the Scottiſh Nation, charging her with many baſe aſperſions, that could not but reflect upon her Son, and ſubjecting her ho<g ref="char:EOLhyphen"/>nour and life to the judgement of a forreign Prince con<g ref="char:EOLhyphen"/>trary to the fundamentall lawes of that ancient free King<g ref="char:EOLhyphen"/>dome, never ſubject to any but their own Kings: and at the ſame time forfeited and baniſhed the <hi>Hamiltons,</hi> Lord <hi>John</hi> and Lord <hi>Claud</hi> being reduced to that extremity, that they were conſtrained to go on foot diſguiſed through <hi>England</hi> to <hi>France;</hi> ſuch an influence and correſpondence the Earl of <hi>Murray</hi> had then with Queen <hi>Eliſabeth,</hi> that they durſt not be known there.</p>
+            <p>Some Two Yeares and odde Moneths after the Earle of <hi>Murry</hi> being killed by one of the name of <hi>Hamilton</hi> out of his private revenge (as I touched before) the Earl of <hi>Lenox</hi> got to be regent; and continued the per<g ref="char:EOLhyphen"/>ſecution of the <hi>Hamiltons,</hi> out of an old quarrell that had been between theſe families for the death of <hi>John</hi> Earl of <hi>Lenox</hi> in King <hi>Iames</hi> the fift his minority (but withall ſtil un<g ref="char:EOLhyphen"/>der the pretence of the murther of the late King and Re<g ref="char:EOLhyphen"/>gent) and ſo did the two ſucceeding Regents, the Earls of <hi>Marre</hi> and <hi>Morton,</hi> to keepe the power in their own hands, and debarre my Lord <hi>Hamilton</hi> from his juſt Right, the Regency being due to him by the Lawes of the Kingdome, as next of blood to the young King.</p>
+            <p>
+               <pb n="9" facs="tcp:115090:5"/>
+Thereafter Captain <hi>James Stewart</hi> a man of a violent and hot Spirit, comming in favour with the young King, ſtu<g ref="char:EOLhyphen"/>dyed to raiſe his fortune, (being a Souldier of fortune) up<g ref="char:EOLhyphen"/>on the continuance of the <hi>Hamiltons</hi> ruin, and firſt begged the Ward of the Earl of <hi>Arran,</hi> being a Lunatick; and after<g ref="char:EOLhyphen"/>wards got himſelf to be made Earl of <hi>Arran:</hi> Thus for many years the <hi>Hamiltons</hi> ſuffered exceedingly for their loyalty; untill at laſt a great part of the Nobilitie, and Gentry, not being able to endure longer Captain <hi>Iames</hi> his oppreſſions, roſe in a body, called home Lord <hi>John Hamil<g ref="char:EOLhyphen"/>ton,</hi> and Lord <hi>Claud</hi> his Brother, and reſcued the King at <hi>Striveling</hi> out of his hands.</p>
+            <p>At which time Lord <hi>Iohn,</hi> venerable for his comely per<g ref="char:EOLhyphen"/>ſon, and gray haires (occaſioned by his great afflictions) falling upon his knees to kiſs his Majeſties hand, was taken up, embraced, and called Father by him; who being over<g ref="char:EOLhyphen"/>joyd with the Kings preſence, and kind reception, fell again upon his knees, and could not expreſs for tears, his joy mix<g ref="char:EOLhyphen"/>ed with grief, that he ſhould have been enforced to take that way to come to His Majeſties Preſence, humbly beg<g ref="char:EOLhyphen"/>ging pardon, if he had given any offence to his Majeſty thereby. The King being much moved with his paſſionate expreſſions and manner of his carriage, took him up again, embraced him, and deſired him not to be troubled, aſſuring him that he was now come to years, to diſcern what he and his family had ſuffered above all others, for their fidelity to his Mother, and ſhould reward it, if God ſpared his days.</p>
+            <p>And ſoon after created him Marquis of <hi>Hamilton,</hi> made him a Privie Councellor, and deſired much his advice in all buſineſs of Weight; but he being of retired diſpoſition waved as much as he could the Court, to enjoy a private con<g ref="char:EOLhyphen"/>tented life in the Country.
+<pb n="10" facs="tcp:115090:6"/>
+Some of the furious Miniſters wrote to him the famous 17 day of <hi>December,</hi> 1596. when they ſtirred up the hot-head<g ref="char:EOLhyphen"/>ded Zelots in <hi>Edenburgh</hi> againſt the King, to come and be head of their faction, which they called God and the Kirks Cauſe, which was a fair occaſion for him to have embra<g ref="char:EOLhyphen"/>ced, if he had been more ambitious then loyal; but he flat<g ref="char:EOLhyphen"/>ly refuſed, adviſing them to ſubmit to their Soveraign; ſent their Letters to the King, and offered his beſt aſſiſtance to ſuppreſs them, and ſo continued all his time moſt paſſi<g ref="char:EOLhyphen"/>onately affectionate to his ſacred Majeſties ſervice, which leads me to obſerve this Libellers malice in his Poſt-ſcript againſt him, moſt injuriouſly, and upon no ground, unleſs he do with ſome of our times interpret the greateſt loyalty to be treaſon, as he aſſerts plainly in ſome parts of his diſ<g ref="char:EOLhyphen"/>courſe, and particularly in the Poſt-ſcript, to bring home his concluſion grounded upon falſe Premiſes, againſt my Lord <hi>Hamiltons</hi> Predeceſſors, and to make way for a more eaſie belief, in the Readers of theſe things, that he libels a<g ref="char:EOLhyphen"/>gainſt the Duke himſelf, and his Brother, to whoſe parts I am now come, (not eſteeming it needful to inſiſt upon the Noble diſpoſition of the Dukes Father, not mentioned by the Pamphleter, and the faithful ſervice that he did to King <hi>Iames</hi> in the general Aſſembly at <hi>Perth,</hi> and in His Majeſties Royal Family.)</p>
+            <p>The firſt arrow wherewith he thinks to wound my Lord <hi>Dukes</hi> honor, is drawn from that Levy for <hi>Germany,</hi> about ſeventeen or eighteen years ago, and carryed on with a long<g ref="char:EOLhyphen"/>winded ſtory concerning the Lord <hi>Rae, Ochiltrie,</hi> and o<g ref="char:EOLhyphen"/>thers.</p>
+            <p>Sir, it is well known, that in that publike tryal, before the Marſhal Court, between the L. <hi>Rae,</hi> &amp; <hi>David Ramſey,</hi> and at the Councel Table between Major <hi>Borthuik,</hi> and M. <hi>Robert</hi>
+               <pb n="11" facs="tcp:115090:6"/>
+               <hi>Meldram,</hi> he was acquitted; <hi>David Ramſey</hi> being known to be no better then a mad man, and the other e<g ref="char:EOLhyphen"/>ſteemed a man of no ſtable ſpirit, both very unlikely to be entruſted by ſo prudent a Stateſman, (as the Duke is thought to be) in a buſineſs of that nature. The Lord <hi>Raes</hi> concealing of the buſineſs ſo long, makes it ſuſpiti<g ref="char:EOLhyphen"/>ous, that if he could have obtained a leaſe of <hi>Orknay</hi> (which it ſhould ſeem, the Lord <hi>Duke</hi> either croſt him in, or did not <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive him that furtherance which he expe<g ref="char:EOLhyphen"/>cted, there had never been a word of it. And Major <hi>Borthuik</hi> (as I have been informed by them that knew him) was a bare Souldier that would have raiſed a for<g ref="char:EOLhyphen"/>tune any way. The Lord <hi>Ochiltrie,</hi> ſon to Captain <hi>Iames Stewart,</hi> formerly mentioned, being of a deſperate eſtate, is confeſſed by the Pamphleter, to have gone far beyond his information, and conſequently to ſuffer juſt<g ref="char:EOLhyphen"/>ly (whatſoever he ſays to the contrary.)</p>
+            <p>The ſecond arrow that he ſhoots at my Lord <hi>Duke,</hi> taketh its flight from the beginning of the troubles in <hi>Scotland,</hi> about which time my Lord <hi>Duke</hi> being im<g ref="char:EOLhyphen"/>ployed by His Majeſty as his Commiſſioner into that Kingdom, to ſettle all differences there, left no means unattempted to advance His Majeſties ſervice, (what<g ref="char:EOLhyphen"/>ever this Scribler falſly ſurmiſeth to the contrary) and notwithſtanding ſo great a mountain of oppoſition as he then met with, did imploy his uttermoſt power with all fidelity, wiſdom, zeal and courage for His Majeſties intereſt, (his now enemies themſelves then being Judges:)</p>
+            <p>Immediatly after he hath ſhot this ſecond arrow, <hi>pag.</hi> 16. perceiving it to fall ſhort, he feathers it of new with ſome Articles once in preparation (as he ſays) by
+<pb n="4" facs="tcp:115090:7"/>
+the Houſe of Commons here in <hi>England</hi> againſt my Lord <hi>Duke,</hi> but this <hi>embrio</hi> wherewith this <hi>ardelio</hi> ſeems to pleaſe himſelf very much, proved abortive, like one of his births, who hath conceived miſchief, and brought forth falſhood; and the truth is, that my Lords unſain<g ref="char:EOLhyphen"/>ed zeal and unwearied fedulity to promote His Maje<g ref="char:EOLhyphen"/>ſties Intereſt in both Kingdoms, was that which rendred him obnoxious to the fury of the times in both, and might have coſt him dear, if he had not taken ſome fair prudential ways to ſave himſelf, when the King was not able to protect him: As for this Pamphleter, to draw concluſions from the event and ſucceſſe of things, which is only in Gods hands, and many times follows the worſt or weakeſt councels, ſavours of too much ſpleen.</p>
+            <q xml:lang="lat">
+               <l>—Careat ſucceſsibus opto,</l>
+               <l>Quiſquis ab eventu facta notanda putet.</l>
+            </q>
+            <p>And to drive on Conſequences from, <hi>perhaps, it may be, it ſeemeth,</hi> and ſuch dialectical mediums, and ſuppo<g ref="char:EOLhyphen"/>ſitions, as alſo upon fooliſh Prophecies, which like <hi>Sy<g ref="char:EOLhyphen"/>biliaes Oracles</hi> have ever divers ſenſes, and are interpre<g ref="char:EOLhyphen"/>ted at pleaſure with additions, diminutions and alterati<g ref="char:EOLhyphen"/>ons, reliſhes too much malice. As this of <hi>Cadyow,</hi> which is laid by him as the corner ſtone of his accuſation,—was made uſe of by the <hi>Zealots,</hi> againſt the Dukes Fa<g ref="char:EOLhyphen"/>ther, when he was His Majeſties Commiſſioner in the general Aſſembly at <hi>Perth,</hi> with the addition of the word Kirk, thus; <hi>When</hi> Cadyow <hi>ſhall be King</hi> (interpreted by) them the Kings Commiſſioner) <hi>he ſhal mickle wo to the Kirk bring.</hi>
+            </p>
+            <p>But this word Kirk is now omitted by this Libeller, he following, for his own finiſter ends, the footſteps of his Father the Devill.</p>
+            <p>As for my own part, I profeſs to you, Sir, that I look
+<pb n="3" facs="tcp:115090:7"/>
+upon theſe pretended Prophecies no otherwiſe, then up<g ref="char:EOLhyphen"/>on the cheats of Wizards, though there may be ſome<g ref="char:EOLhyphen"/>times cunning policy in them, to abuſe the ſimple cre<g ref="char:EOLhyphen"/>dulous people.</p>
+            <p>His laſt arrow flyeth high, but how far wide, and how much, in this laſt aſperſion, his tongue is like a razor that cutteth deceitfully; will appear by this true nar<g ref="char:EOLhyphen"/>ration, which I ſhal briefly give you, as followeth.</p>
+            <p>In the year 1643. upon the Dukes arrival at <hi>Oxford</hi> from <hi>Scotland,</hi> out of his Zeal to His Majeſties Intereſt; ſome <hi>Doegs</hi> then of both Nations conſpiring together, and being led with a moſt perverſe and ungrateful ſpi<g ref="char:EOLhyphen"/>rit (divers of them being raiſed by his means to their higheſt and beſt fortunes,) moſt falſly and injuriouſly laid to his charge things that he knew not, acting the part of informers, accuſers and witneſſes; whereupon a proceſs was drawn againſt the Duke, but when the ſame was given into Sir <hi>Robert Holborne</hi> (that late famous Lawyer) to ſee how far it would ſtrike againſt my Lord <hi>Duke:</hi> In plain terms he affirmed it was of no weight, withall adding, there was never greater injuſtice done to a Peer of this Realm; for which plainneſs and candor, the ſaid Sir <hi>Robert Holborn</hi> was like to have ſuf<g ref="char:EOLhyphen"/>fered deeply: Beſides, to this day there never was, nei<g ref="char:EOLhyphen"/>ther then could be any reall proof made againſt him. And though my Lord <hi>Duke,</hi> during his aboad at <hi>Oxford,</hi> did from day to day moſt humbly ſupplicate acceſs to His Majeſty for clearing of himſelf; yet the ſaid com<g ref="char:EOLhyphen"/>bined faction (well knowing, that if the Lord <hi>Duke</hi> had got acceſs to His Maieſty, he could as eaſily have ſhook off their forged accuſation, as Saint <hi>PAUL</hi> did the Viper from his hand;) prevailed by their multiplyed malicious Suggeſtions, ſubtile
+<pb n="14" facs="tcp:115090:8"/>
+inſinuations, and the influence of their abettors, over the Kings good nature, as to get my Lord removed from Court, and committed to <hi>Pendennis,</hi> where he endured a long and tedious impriſonment with great Patience, his good conſcience being a continual feaſt to him.</p>
+            <p>Now leaſt I ſhould treſpaſs upon your patience, and tranſgres too far the juſt limits of a Letter, I ſhal ſhut up the Dukes part with this, That all that the Pamphleter hath packt together in his Letter, is but a fardle of groſs lyes and falſe aſperſions, whereby, if that he hath not ly'd himſelf out of all credit with all men of any can<g ref="char:EOLhyphen"/>dor or ingenuity; I report my ſelf to any who hath not the pearl of prejudice in the eye of their judgment; As alſo that he proves himſelf a Libeller in not putting his name to the charge, according to the Laws of that Kingdom.</p>
+            <p>To draw towards a concluſion, <hi>pag.</hi> 21. he ſhewes no ſmal particular ſpleen againſt the Earl of <hi>Lanrick</hi> in the citation of two paſſages that could not drop from the mouth of any rational man, much leſs from one of my Lord <hi>Lanricks</hi> wiſdom and temper: The paſſages he takes upon him to confirm by my Lords horoſcope (wherin it ſeems he is verſed) &amp; with a <hi>Peut-eſtre</hi> and his bare affirmative; as his <hi>Peut-eſtre,</hi> hath no ſtrength in it, and his affirmative no credit, ſo I hope none will fan<g ref="char:EOLhyphen"/>cy my Lord <hi>Lanrick</hi> of ſo mean a capacity, and credu<g ref="char:EOLhyphen"/>lous a brain as to place ſo great confidence (as the Pam<g ref="char:EOLhyphen"/>phleter ſpeaks of) in a horoſcope, much leſs to glory in the ſame, contrary to the Canons of the Primitive Church, and practice of all good Chriſtians, nay even the Laws of ſome Pagan Emperors. Sir, as for the na<g ref="char:EOLhyphen"/>ture of Horoſcopes in general, I have ſpent ſome time
+<pb n="15" facs="tcp:115090:8"/>
+in the ſearch of it, but could never find any certain grounds to build upon, and can inſtance an hundred fai<g ref="char:EOLhyphen"/>lings for every truth hath faln out.</p>
+            <p>Laſtly I conceive this Pamphlet (as things ſtand) to have been unſeaſonably vented, to the no ſmal encour<g ref="char:EOLhyphen"/>agement of all diſaffected to his Majeſtie and Monar<g ref="char:EOLhyphen"/>chical Government, and the grand diſcouragement of all well affected to his Majeſties ſervice and intereſt; yea even to divide and diſturb them. But to winde up all, my Lord Duke being made General of the Scotiſh Army, not by a private Faction, but by the Eſtates of that Kingdom aſſembled in a full and free Parliament, I am confident (and ſo deſire you to be] that his Graces faithful, vigorous and active proſecution of that high and weighty imployment now laid upon his ſhoulders, will prove, (by the bleſſing of him who is the Lord of Hoſts the <hi>Panpharmacon</hi> of all our diſtempers and diſ<g ref="char:EOLhyphen"/>eaſes, turn all our water into wine, ſpeak this conjurer (for ſo he takes upon him to be <hi>pag.</hi> 23. dead, falſifie all his panick predictions, undeceive many who out of their too much credulity and no leſs partiality, have appre<g ref="char:EOLhyphen"/>hended and entertained divers groundleſs fears and jea<g ref="char:EOLhyphen"/>louſies of my Lord Duke, and in the end fatal to none but this upſtart <hi>Merlin</hi> and his pertinacious Proſelites<hi>:</hi> My Lord Duke having nothing before his eyes, nor priſing any thing upon earth more dear to him then the ſetling of Religion in its power and purity, his ſacred Majeſties reſtauration to his Royal Throne and Dignity; the firm union of both Nations; and the peace and tran<g ref="char:EOLhyphen"/>quillity of all theſe ſo long bleeding and diſtempered Kingdoms<hi>:</hi> which the God of Peace ſpeedily accom<g ref="char:EOLhyphen"/>pliſh
+<pb n="16" facs="tcp:115090:9"/>
+and I preſume that you and all the lovers of truth, juſtice and peace, will ſay <hi>A men</hi> to the Prayer of</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your obſervant Friend to ſerve you, 510: 1610.</signed>
+            </closer>
+            <postscript>
+               <head>Poſt-ſcript.</head>
+               <p>I forgot (being in haſte] to ſhew you how that the Author of the Pamphlet doth <hi>Pag,</hi> 20, &amp; 21. intimate himſelf to have been very inward with the King at <hi>New<g ref="char:EOLhyphen"/>caſtle,</hi> to be a man of no vulgar intelligence, and as con<g ref="char:EOLhyphen"/>fident as a Secretary of State; but as he plundred <hi>Bu<g ref="char:EOLhyphen"/>chanan</hi> in the firſt part; ſo he diſcovers the like, or more intereſt then <hi>Buchanans</hi> plundred mare and cloke<g ref="char:EOLhyphen"/>bag in the laſt part.</p>
+            </postscript>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
